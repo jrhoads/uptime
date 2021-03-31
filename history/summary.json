@@ -22,17 +22,17 @@
     "url": "https://repository.library.brown.edu/studio",
     "icon": "https://favicons.githubusercontent.com/repository.library.brown.edu",
     "slug": "repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 2284,
-    "timeWeek": 1802,
-    "timeMonth": 1109,
-    "timeYear": 799,
+    "time": 795,
+    "timeDay": 2401,
+    "timeWeek": 1735,
+    "timeMonth": 1092,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   }
 ]
