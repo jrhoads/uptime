@@ -4,19 +4,19 @@
     "url": "https://library.brown.edu",
     "icon": "https://favicons.githubusercontent.com/library.brown.edu",
     "slug": "library",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1807,
-    "timeDay": 1141,
-    "timeWeek": 2794,
-    "timeMonth": 1661,
-    "timeYear": 1807,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1804,
+    "timeDay": 1184,
+    "timeWeek": 2598,
+    "timeMonth": 1647,
+    "timeYear": 1804,
     "dailyMinutesDown": {
-      "2021-06-17": 1
+      "2021-06-17": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://repository.library.brown.edu/studio",
     "icon": "https://favicons.githubusercontent.com/repository.library.brown.edu",
     "slug": "repo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 381,
-    "timeWeek": 579,
-    "timeMonth": 588,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 703,
+    "timeDay": 434,
+    "timeWeek": 567,
+    "timeMonth": 584,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2021-06-17": 0
+      "2021-06-17": 19
     }
   }
 ]
